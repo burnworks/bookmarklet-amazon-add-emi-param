@@ -6,7 +6,7 @@ Amazon の URL に 「&emi=AN1VRQENFRJN5」 を足すとマーケットプレイ
 
 基本的な使い方は通常のブックマークレットと同じです。
 
-    javascript:location.href+='&emi=AN1VRQENFRJN5';
+    javascript:window.location.href+='&emi=AN1VRQENFRJN5';
 
 ## 参考
 

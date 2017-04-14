@@ -1,1 +1,1 @@
-javascript:location.href+='&emi=AN1VRQENFRJN5';
+javascript:window.location.href+='&emi=AN1VRQENFRJN5';
