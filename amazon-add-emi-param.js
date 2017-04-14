@@ -1,0 +1,1 @@
+javascript:location.href+='&emi=AN1VRQENFRJN5';
